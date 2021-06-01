@@ -1,4 +1,4 @@
 gateway.ip=10.54.35.11
 token.expiration_time= 86400000
-token.secret=sdfsdfsd987sdfsdfkjh
+token.secret=secretToken
 login.url.path= /users/login
